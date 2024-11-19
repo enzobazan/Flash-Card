@@ -1,7 +1,7 @@
 criaCartao(
     'charada',
     'Por que o segurança ganha todas as corridas?',
-    'Porque segurança em primeir lugar'
+    'Porque segurança em primeiro lugar'
 )
 
 criaCartao(
